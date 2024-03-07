@@ -1,6 +1,7 @@
 # ICOM101
 In Class Demo for ICOM 101 Workshop 
 #Cher X
+Ariel Hulfachor
 ## Prerequisites
 To participate in this workshop, you will need:
 - A basic understanding of version control concepts
