@@ -1,9 +1,9 @@
 # Group 2
-Cher X
-Ariel Hulfachor
-Jazmycelium
-Anna Yoshinari
-Sophia Prothero 
+Cher X <br>
+Ariel Hulfachor <br>
+Jazmycelium <br>
+Anna Yoshinari <br>
+Sophia Prothero  <br>
 
 ## Prerequisites
 To participate in this workshop, you will need:
