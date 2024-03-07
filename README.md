@@ -4,6 +4,8 @@ In Class Demo for ICOM 101 Workshop
 ## Participants
 Sophia Prothero
 
+Jaz Jendersee
+
 ## Prerequisites
 To participate in this workshop, you will need:
 - A basic understanding of version control concepts
@@ -11,4 +13,3 @@ To participate in this workshop, you will need:
 - A GitHub account (create one at https://github.com/join if you don't have it already)
 - A PenPot account (create one at https://design.penpot.app/)
 
-# Jaz Jendersee
